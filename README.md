@@ -1,6 +1,6 @@
 # SEAL
-Safety Enhanced Trajectory Planning and Control Framework for Quadrotor Flight in Complex Environments
-[![Uploading video_IROS25_SEAL.png…](https://github.com/Ma29-HIT/SEAL/main/figs/video_IROS25_SEAL.png)](https://github.com/Ma29-HIT/SEAL/blob/main/figs/video_IROS25_SEAL.png)
+Safety Enhanced Trajectory Planning and Control Framework for Quadrotor Flight in Complex Environment.
+![image](figs/video_IROS25_SEAL.png)
 
 
 
