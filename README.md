@@ -9,5 +9,5 @@ Authors:  Yiming Wang†, Jianbin Ma†, Junda Wu, Huizhe Li, Zhexuan Zhou, Youm
 
 *We have commited this paper to IROS 2025 and it is under review.*
 
-Video Link: <iframe src="//player.bilibili.com/player.html?isOutside=true&aid=114116106719754&bvid=BV1ceRNYtEhf&cid=28727379780&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+Video Link: 【[IROS2025] SEAL: Safety Enhanced Trajectory Planning and Control Framework】 https://www.bilibili.com/video/BV1ceRNYtEhf/?share_source=copy_web&vd_source=f0b91ed131fc742cf87cf7d988e2d158
 
